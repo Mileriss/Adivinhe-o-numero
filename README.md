@@ -11,7 +11,7 @@ Tela de interação
 - Aqui o usuário precisa seguir as instruções de 'Maior' e 'Menor' para adivinhar o numero que foi sorteado.  
 MAIOR - o numero sorteado é maior que o ultimo numero digitado  
 ![image](https://user-images.githubusercontent.com/79271785/197419924-99982ab8-1085-46d1-ba47-c5d2b33a7350.png)  
-MENOR - o numero sorteado foi menor que o ultimo numero digitado  
+MENOR - o numero sorteado é menor que o ultimo numero digitado  
 ![image](https://user-images.githubusercontent.com/79271785/197419978-c88a9a96-1447-4dc0-be89-65bc96a6f86e.png)
 
 Tela de Resultado
